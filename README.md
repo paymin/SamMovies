@@ -31,11 +31,11 @@ Identitas Siswa :
  - Intro/Guide Aplikasi - 'com.github.deano2390:MaterialShowcaseView:1.1.0'
 
  
- [![Screenshot_2016-12-07-17-18-29.png](https://s12.postimg.org/4gl1uttcd/Screenshot_2016_12_07_17_18_29.png)](https://postimg.org/image/8pprwzwll/)
- [![Screenshot_2016-12-07-17-18-46.png](https://s12.postimg.org/hm0k0xn7x/Screenshot_2016_12_07_17_18_46.png)](https://postimg.org/image/4umdufdft/)
- [![Screenshot_2016-12-07-17-21-00.png](https://s12.postimg.org/et7cgwmvh/Screenshot_2016_12_07_17_21_00.png)](https://postimg.org/image/tp5vohya1/)
- [![Screenshot_2016-12-07-17-21-11.png](https://s12.postimg.org/jgdeioa8d/Screenshot_2016_12_07_17_21_11.png)](https://postimg.org/image/9vtrvskw9/)
- [![Screenshot_2016-12-07-17-21-24.png](https://s12.postimg.org/uin2uutot/Screenshot_2016_12_07_17_21_24.png)](https://postimg.org/image/k8knvm3t5/)
- [![Screenshot_2016-12-07-17-21-52.png](https://s12.postimg.org/v9ft0mw25/Screenshot_2016_12_07_17_21_52.png)](https://postimg.org/image/9n0sjlxhl/)
+[![Screenshot_2017-05-14-20-38-54.jpg](https://s18.postimg.org/gbp0ajbfd/Screenshot_2017-05-14-20-38-54.jpg)](https://postimg.org/image/5c3syxl05/)
+[![Screenshot_2017-05-14-20-38-59.jpg](https://s18.postimg.org/el5z91tw9/Screenshot_2017-05-14-20-38-59.jpg)](https://postimg.org/image/gcyy3yd91/)
+[![Screenshot_2017-05-14-20-39-14.jpg](https://s18.postimg.org/qbjwqfmop/Screenshot_2017-05-14-20-39-14.jpg)](https://postimg.org/image/646gy4p79/)
+[![Screenshot_2017-05-14-20-39-21.jpg](https://s18.postimg.org/r2cmw7p21/Screenshot_2017-05-14-20-39-21.jpg)](https://postimg.org/image/dy72jix05/)
+[![Screenshot_2017-05-14-20-39-24.jpg](https://s18.postimg.org/h6bjwkja1/Screenshot_2017-05-14-20-39-24.jpg)](https://postimg.org/image/5h7k8lsb9/)
+[![Screenshot_2017-05-14-20-39-31.jpg](https://s18.postimg.org/l3ytlz63d/Screenshot_2017-05-14-20-39-31.jpg)](https://postimg.org/image/x5u7g4fbp/)
  
 
