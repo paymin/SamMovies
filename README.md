@@ -25,11 +25,10 @@ Identitas Siswa :
  - User friendly dengan tampilan modern
 
  Library Lain :
- - 'com.github.florent37:materialviewpager:1.2.1'
- - 'com.flaviofaria:kenburnsview:1.0.7'
- - 'com.jpardogo.materialtabstrip:library:1.1.0'
- - 'com.github.satyan:sugar:1.5'
- - 'com.github.deano2390:MaterialShowcaseView:1.1.0'
+ - Tampilan View Pager - 'com.github.florent37:materialviewpager:1.2.1'
+ - Gambar Bergerak - 'com.flaviofaria:kenburnsview:1.0.7'
+ - Styling Tab - 'com.jpardogo.materialtabstrip:library:1.1.0'
+ - Intro/Guide Aplikasi - 'com.github.deano2390:MaterialShowcaseView:1.1.0'
 
  
  [![Screenshot_2016-12-07-17-18-29.png](https://s12.postimg.org/4gl1uttcd/Screenshot_2016_12_07_17_18_29.png)](https://postimg.org/image/8pprwzwll/)
