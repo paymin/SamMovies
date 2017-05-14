@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        app:cardCornerRadius="2dp"
+        app:cardElevation="8dp">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageViewOtof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/textViewHead"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+                android:paddingTop="7dp"
+                android:text="Heading"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
+                android:textSize="8pt"/>
+
+            <TextView
+                android:id="@+id/textViewDesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="7dp"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+                android:text="Description"
+                android:textSize="4pt" />
+
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>
