@@ -36,15 +36,31 @@
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
                 android:textSize="8pt"/>
 
-            <TextView
-                android:id="@+id/textViewDesc"
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingBottom="7dp"
+                android:orientation="horizontal"
+
                 android:paddingLeft="7dp"
                 android:paddingRight="7dp"
-                android:text="Description"
-                android:textSize="4pt" />
+                android:paddingBottom="7dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/ic_stars_black_24dp"/>
+
+                <TextView
+                    android:paddingLeft="5dp"
+                    android:id="@+id/textViewDesc"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Description"
+                    android:textSize="8pt"/>
+
+            </LinearLayout>
+
+
 
 
         </LinearLayout>

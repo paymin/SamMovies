@@ -183,7 +183,7 @@ public class MainFragment extends Fragment {
                                 MainListItem item = new MainListItem(
                                         "https://image.tmdb.org/t/p/w500"+o.getString("backdrop_path"),
                                         o.getString("title"),
-                                        o.getString("popularity")
+                                        o.getString("release_date")
                                 );
                                 listItems.add(item);
                             }

@@ -111,7 +111,7 @@ public class TopRatedFragment extends Fragment {
                                 NowPlaying item = new NowPlaying(
                                         "https://image.tmdb.org/t/p/w500"+o.getString("backdrop_path"),
                                         o.getString("title"),
-                                        o.getString("popularity")
+                                        o.getString("vote_average")
                                 );
                                 listItems.add(item);
                             }
